@@ -18,3 +18,11 @@ Synthetic Data Generation: Augments the dataset while preserving feature correla
 Evaluation Metrics: Assesses models using Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared (R²) scores.
 Clustering Techniques: Applies DBSCAN to identify regions of interest in celestial maps.
 Visualizations: Provides interactive tools for user-friendly exploration of SSFR predictions.
+
+Results
+
+The Random Forest model demonstrated the best balance of predictive performance and computational efficiency. The incorporation of synthetic data and advanced feature engineering strategies significantly improved model accuracy and generalizability.
+
+Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue for any improvements or suggestions.
