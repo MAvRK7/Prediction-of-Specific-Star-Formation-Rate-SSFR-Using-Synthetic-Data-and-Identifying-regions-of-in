@@ -25,4 +25,4 @@ The Random Forest model demonstrated the best balance of predictive performance 
 
 Contributing
 
-Contributions are welcome! Please submit a pull request or open an issue for any improvements or suggestions.
+I developed the whole original dataset analysing, synthetic data generation and regions of interest model
