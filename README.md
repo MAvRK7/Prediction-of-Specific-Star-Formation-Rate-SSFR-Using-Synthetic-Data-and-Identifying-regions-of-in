@@ -1,4 +1,4 @@
-# Advanced-Prediction-of-Specific-Star-Formation-Rate-SSFR-Using-Synthetic-Data-and-ML-Models
+# Prediction of Specific Star Formation Rate (SSFR) Using Synthetic Data and Identifying regions of interest
 
 Project Overview
 
