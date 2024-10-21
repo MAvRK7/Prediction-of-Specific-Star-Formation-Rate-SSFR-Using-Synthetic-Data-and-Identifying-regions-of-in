@@ -23,6 +23,9 @@ Results
 
 The Random Forest model demonstrated the best balance of predictive performance and computational efficiency. The incorporation of synthetic data and advanced feature engineering strategies significantly improved model accuracy and generalizability.
 
-Contributing
+My Contribution
 
 I developed the whole original dataset analysing, synthetic data generation and regions of interest model
+
+
+This work has been submitted to The IEEE Conference on Engineering Informatics 2024 (ICEI 2024) and is under review
