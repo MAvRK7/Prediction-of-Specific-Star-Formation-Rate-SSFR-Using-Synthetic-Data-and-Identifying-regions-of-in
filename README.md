@@ -1,5 +1,7 @@
 # Prediction of Specific Star Formation Rate (SSFR) Using Synthetic Data and Identifying regions of interest
 
+This work has been accepted in the IEEE Conference on Engineering Informatics 2024 (ICEI 2024) being held at IIT-Dharwad and will be presented shortly 
+
 Project Overview
 
 This project focuses on the advanced prediction of Specific Star Formation Rate (SSFR) in galaxies using real and synthetic data from the Sloan Digital Sky Survey Data Release 7 (SDSS-DR7). By leveraging machine learning models, we aim to enhance the predictive performance and understanding of galaxy evolution.
@@ -28,4 +30,4 @@ My Contribution
 I developed the whole original dataset analysing, synthetic data generation and regions of interest model
 
 
-This work has been submitted to The IEEE Conference on Engineering Informatics 2024 (ICEI 2024) and is under review
+
