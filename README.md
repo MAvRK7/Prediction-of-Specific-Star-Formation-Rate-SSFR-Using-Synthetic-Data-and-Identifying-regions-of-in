@@ -1,6 +1,6 @@
 # Prediction of Specific Star Formation Rate (SSFR) Using Synthetic Data and Identifying regions of interest
 
-This work has been accepted in the IEEE Conference on Engineering Informatics 2024 (ICEI 2024) being held at IIT-Dharwad and will be presented shortly 
+This work has been accepted in the IEEE Conference on Engineering Informatics 2024 (ICEI 2024) being held at IIT-Dharwad and will be presented shortly.
 
 Project Overview
 
